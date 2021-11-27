@@ -4,8 +4,8 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ## E-learning AWS Solutions Architect - Professional
 ### 1. AWS Course: Associate Level
 - [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org) **(Unofficial)**
-- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org)
-- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org)
+- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org) **(Unofficial)**
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
 > Video material dari Andrew Brown (ExamPro) di freecodecamp. Meskipun materinya levelnya Associate, kita bisa belajar terkait dengan service yang dikenalkan dikelas AWS level Profesional.
 
 ### 2. Exam Readiness SAP-C01
