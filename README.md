@@ -20,12 +20,12 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [Advanced Architecting on AWS - v2.8](http://bit.ly/aarclabs)
 > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu.
 
-## 2. Free Labs
+### 2. Free Labs
 - [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
 > Kumpulan lab AWS gratis yang disediakan oleh Qwiklabs.
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com)
 > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir "Tear Down" yang menjelaskan apa yang harus diterminate diakun kita.
 
-## 3. Step-by-Step Tutorials
+### 3. Step-by-Step Tutorials
 https://aws.amazon.com/getting-started/hands-on
 > Langkah-langkah dalam menerapkan beberapa arsitektur di AWS.
