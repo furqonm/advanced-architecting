@@ -12,7 +12,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [Exam Readiness: AWS Certified Solutions Architect – Professional](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/34/exam-readiness-aws-certified-solutions-architect-professional)
 > Video latihan persiapan ujian SAP-C01 dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Login menggunakan akun Amazon, bukan akun AWS.
 - [AWS Certified Solutions Architect Professional](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/) **(Unofficial)**
-- [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) **(Unofficial)**
 > Catatan berisikan key point service-service di AWS.
 
 ## Hands on Lab
