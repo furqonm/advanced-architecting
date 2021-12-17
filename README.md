@@ -16,7 +16,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
-- [AWS Certified Solutions Architect Professional](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/) **(Unofficial)**
+- [AWS Certified Solutions Architect Professional Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/) **(Unofficial)**
 
     > Catatan berisikan key point service-service di AWS.
 
