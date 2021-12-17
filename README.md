@@ -3,7 +3,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ---
 ## Exam Preparation Materials
-### 1. AWS Course: Associate Level
+### 1. Course
 - [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org) **(Unofficial)**
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org) **(Unofficial)**
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
