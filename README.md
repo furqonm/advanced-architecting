@@ -48,6 +48,10 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Kumpulan lab AWS yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
 
+- [VMware Cloud on AWS - Fundamentals - Hands-on Lab](https://my.vmware.com/web/vmware/evalcenter?p=vmc-hol-aws-gen-21)
+
+    > Hands-on Labs gratis untuk mencoba VMware Cloud on AWS. Lab bisa diakses selama satu setengah jam, berjalan di browser beberapa menit dan tidak memerlukan instalasi.
+
 ### 3. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com)
 - [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
