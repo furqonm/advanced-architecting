@@ -50,12 +50,12 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [VMware Cloud on AWS - Fundamentals - Hands-on Lab](https://my.vmware.com/web/vmware/evalcenter?p=vmc-hol-aws-gen-21)
 
-    > Hands-on Labs gratis untuk mencoba VMware Cloud on AWS. Lab bisa diakses selama satu setengah jam, berjalan di browser beberapa menit, dan tidak memerlukan instalasi.
+    > Hands-on Labs gratis untuk mencoba VMware Cloud on AWS. Lab bisa diakses selama satu setengah jam dan berjalan di browser tanpa memerlukan instalasi.
 
 - [Play with Docker](https://labs.play-with-docker.com/)
 - [Kubernetes: Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
 
-    > Hands-on Labs gratis untuk belajar Docker dan Kubernetes. Lab berjalan di browser beberapa menit, dan tidak memerlukan instalasi.
+    > Hands-on Labs gratis untuk belajar Docker dan Kubernetes. Lab berjalan di browser tanpa memerlukan instalasi.
 
 ### 3. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com)
