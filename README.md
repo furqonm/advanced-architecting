@@ -8,7 +8,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org) **(Unofficial)**
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
 
-    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Meskipun materinya levelnya Associate, kita bisa belajar terkait dengan service yang dikenalkan dikelas AWS level Profesional.
+    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Meskipun materinya levelnya Associate, kita bisa belajar terkait dengan service yang dikenalkan dikelas AWS level profesional.
 
 
 ### 2. Exam Guide
@@ -62,3 +62,16 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
 
     > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
+
+## Additional Material (Optional)
+### 1. Big Data
+- [Data Analytics Fundamentals](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/44/data-analytics-fundamentals)
+
+    > Video material official di AWS SkillBuilder. Silahkan dipelajari kalau ingin mengenal konsep dasar data analytic.
+
+### 2. Container and Kubernetes
+- [Belajar Kubernetes untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime) **(Unofficial)**
+- [Amazon Elastic Kubernetes Service (EKS) Primer](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/57/amazon-elastic-kubernetes-service-eks-primer)
+- [Amazon Elastic Container Service (ECS) Primer](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/57/amazon-elastic-kubernetes-service-eks-primer)
+
+    > Video material dari Programmer Zaman Now dan yang official di AWS SkillBuilder. Silahkan dipelajari untuk memperkuat konsep dasar tentang container dan Kubernetes.
