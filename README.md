@@ -21,7 +21,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Catatan berisikan key point service-service di AWS.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified Solutions Architect – Professional](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/34/exam-readiness-aws-certified-solutions-architect-professional)
+- [Exam Readiness: AWS Certified Solutions Architect – Professional](https://explore.skillbuilder.aws/learn/course/external/view/elearning/34/exam-readiness-aws-certified-solutions-architect-professional)
 
     > E-learning untuk latihan persiapan ujian Solutions Architect Professional dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
@@ -29,9 +29,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Beberapa contoh soal untuk mengenali format pertanyaan ujian Solutions Architect Professional nanti.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
-    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Professional nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
 
