@@ -26,8 +26,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > E-learning untuk latihan persiapan ujian Solutions Architect Professional dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified Solutions Architect - Professional Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+- [Qubits42 Test Learn](https://www.koenig-solutions.com/aws) **(Unofficial)**
 
-    > Beberapa contoh soal untuk mengenali format pertanyaan ujian Solutions Architect Professional nanti.
+    > Beberapa contoh soal untuk mempersiapkan ujian Solutions Architect Professional.
 
 - [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
