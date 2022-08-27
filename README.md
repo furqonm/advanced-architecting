@@ -8,35 +8,27 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org) **(Unofficial)**
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
 
-    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Meskipun materinya levelnya Associate, kita bisa belajar terkait dengan service yang dikenalkan dikelas AWS level profesional.
+    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Meskipun materinya level associate tapi bisa digunakan untuk mempelajari beberapa service yang dikenalkan dikelas AWS level profesional.
 
 
 ### 2. Exam Guide
-- [AWS Certified Solutions Architect - Professional Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
+- [AWS Certified Solutions Architect - Professional (SAP-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide_C02.pdf)
 
-    > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
-
-- [AWS Certified Solutions Architect Professional Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/) **(Unofficial)**
-
-    > Catatan berisikan key point service-service di AWS.
+    > Membahas 4 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
 ### 3. Exam Readiness
 - [Exam Readiness: AWS Certified Solutions Architect – Professional](https://explore.skillbuilder.aws/learn/course/external/view/elearning/34/exam-readiness-aws-certified-solutions-architect-professional)
 
     > E-learning untuk latihan persiapan ujian Solutions Architect Professional dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
-- [AWS Certified Solutions Architect - Professional Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
-- [Qubits42 Test Learn](https://www.koenig-solutions.com/aws) **(Unofficial)**
+- [Solutions Architect – Professional (SAP-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+- [AWS Certified Solutions Architect – Professional](https://www.qubits42.com/test/1528/1948326) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian Solutions Architect Professional.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certified Solutions Architect - Professional Official Practice Question Set (SAP-C02 - English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13270/aws-certified-solutions-architect-professional-official-practice-question-set-sap-c02-english)
 
     > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
-
-- [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
-
-    > Cara mendapatkan simulasi ujian gratis via PSI Online untuk mengenali format pertanyaan ujian Solutions Architect Professional nanti. Untuk mencoba syaratnya *harus lulus minimal satu ujian AWS* apapun.
 
 ## Hands on Lab
 ### 1. Video Demo Lab
