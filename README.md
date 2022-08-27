@@ -22,7 +22,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > E-learning untuk latihan persiapan ujian Solutions Architect Professional dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [Solutions Architect – Professional (SAP-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
-- [AWS Certified Solutions Architect – Professional](https://www.qubits42.com/test/1528/1948326) **(Unofficial)**
+- [Qubits42 Test, Learn: AWS Certified Solutions Architect – Professional](https://www.qubits42.com/test/1528/1948326) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian Solutions Architect Professional.
 
