@@ -17,12 +17,12 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Membahas 4 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified Solutions Architect – Professional](https://explore.skillbuilder.aws/learn/course/external/view/elearning/34/exam-readiness-aws-certified-solutions-architect-professional)
+- [Exam Readiness SAP-C02: AWS Certified Solutions Architect - Professional (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14951/exam-prep-aws-certified-solutions-architect-professional-sap-c02)
+- [Exam Readiness SAP-C01: AWS Certified Solutions Architect – Professional (Indonesian)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8031/exam-readiness-aws-certified-solutions-architect-professional-indonesian)
 
     > E-learning untuk latihan persiapan ujian Solutions Architect Professional dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [Solutions Architect – Professional (SAP-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
-- [Qubits42 Test, Learn: AWS Certified Solutions Architect – Professional](https://www.qubits42.com/test/1528/1948326) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian Solutions Architect Professional.
 
