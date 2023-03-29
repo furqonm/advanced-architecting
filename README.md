@@ -26,7 +26,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Beberapa contoh soal untuk mempersiapkan ujian Solutions Architect Professional.
 
-- [AWS Certified Solutions Architect - Professional Official Practice Question Set (SAP-C02 - English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13270/aws-certified-solutions-architect-professional-official-practice-question-set-sap-c02-english)
+- [AWS Certified Solutions Architect - Professional Official Practice Question Set (SAP-C02 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13270/aws-certified-solutions-architect-professional-official-practice-question-set-sap-c02-english)
 
     > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
